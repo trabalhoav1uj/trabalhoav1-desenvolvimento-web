@@ -9,3 +9,4 @@ Este projeto tem como objetivo aplicar na prática os conceitos estudados em sal
 
 - HTML
 - CSS
+- JavaScript
