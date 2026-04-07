@@ -6,6 +6,7 @@
 
         body {
             font-family: 'Arial', sans-serif;
+            font-weight: 700;
         }
 
         .navbar {
@@ -158,6 +159,10 @@
             min-width: 200px;
         }
 
+        .course-button {
+            font-weight: 700;
+        }
+
         main button:hover {
             background-color: rgb(122, 200, 252);
             color:rgb(255, 255, 255)
@@ -172,9 +177,12 @@
     }
 
     .logo {
-        justify-content: flex-start;
+        text-align: center;
+        justify-content: center;
     }
+
     .cursoslivres {
+        display: none;
         width: 100%;
         text-align: center;
         justify-content: center;
