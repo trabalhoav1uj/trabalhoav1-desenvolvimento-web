@@ -61,12 +61,12 @@
             transition: background-color 0.3s ease-in-out;
         }
 
-        .btnentrar a {
+        .btnentrar,
+        .btncadastrar {
             text-decoration: none;
+            display: inline-block;
             color: #000;
-            cursor: pointer;
-            transition: ease-in-out;
-        }   
+        } 
 
         .btnentrar a:hover {
             color: #ffe100;
@@ -216,5 +216,3 @@
         max-width: 300px;
     }
 }
-
-    
